@@ -1,4 +1,4 @@
-# A-B-Testing
+# A/B-Testing
 # 📰 Which Headline Works Better?  
 ## A/B Testing with Real API Data
 
